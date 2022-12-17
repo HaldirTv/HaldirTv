@@ -41,8 +41,6 @@ I'm Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haldirtv&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haldirtv&layout=compact)](https://github.com/haldirtv/github-readme-stats)
-
 ---
 
 ### :writing_hand: Blog Posts :
