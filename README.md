@@ -19,11 +19,11 @@
 
 ### :octocat: About Me :
 I'm Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm studying to be a programmer at the academy.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Python junior developer
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I chat on discord. My discord: HaldirTv#5553
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
