@@ -37,7 +37,7 @@ I'm Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-haldirtv&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HaldirTv&theme=dark&hide_border=)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-haldirtv&layout=compact&theme=vision-friendly-dark)](https://github.com/haldirtv/github-readme-stats)
 
