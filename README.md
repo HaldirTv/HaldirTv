@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://imgur.com/x1ZnOkR" width="100"/>
+  <img src="https://imgur.com/a/HHvqGAm" width="100"/>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
