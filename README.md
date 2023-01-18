@@ -19,13 +19,7 @@
 
 ### :octocat: About Me :
 I'm Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦
-- :telescope: I'm studying to be a programmer at the academy.
-
-- :seedling: Python junior developer
-
-- :zap: In my free time, I chat on discord. My discord: HaldirTv#5553
-
-- :mailbox:How to reach me: Discord: HaldirTv#5553
+- :telescope:
 
 ---
 
