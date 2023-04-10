@@ -1,5 +1,6 @@
-<div id="header" align="center">
-  <div id="badges">
+<div align="center">
+  <h1>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <div>
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
@@ -7,40 +8,37 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
-  <h1>
-    Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <img src="https://komarev.com/ghpvc/?username=your-github-haldirtv&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=haldirtv&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
----
+<hr>
 
-### :octocat: About Me :
-I'm Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h3>About Me :octocat:</h3>
+<p>Hi! I like IT and am always ready for new opportunities. I can program in Python and C++. I strive to create quality and efficient code. I enjoy learning and improving in IT. I will be happy to communicate and collaborate with those who share my passion for IT! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
----
+<hr>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<h3>Languages and Tools :hammer_and_wrench:</h3>
+<p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Stduio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs Code" alt="Vs Code" width="40" height="40"/>&nbsp;
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+</p>
 
----
+<hr>
 
-### :fire: My Stats :
-<img src="https://komarev.com/ghpvc/?username=your-github-haldirtv&style=flat-square&color=blue" alt="Profile Views"/>
+<h3>My Stats :fire:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=haldirtv&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haldirtv&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldirtv&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HaldirTv&theme=dark&hide_border=)](https://git.io/streak-stats)
+<hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haldirtv&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haldirtv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- <h3>Blog Posts :writing_hand:</h3>
+<ul>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+<!-- </ul> --> -->
