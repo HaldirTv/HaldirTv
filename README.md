@@ -4,7 +4,7 @@
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
-    <a href="https://www.youtube.com/@haldirtv8544">
+    <a href="https://www.google.com/search?q=у+меня+нет+ютуб+канала">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
